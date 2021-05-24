@@ -8,4 +8,4 @@ Interested in:
 * :robot: Bots
 
 
-![VegaYed's github stats](https://github-readme-stats.vercel.app/api?username=vegayed&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegayed&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![VegaYed's github stats](https://github-readme-stats-snowy-zeta.vercel.app/api?username=vegayed&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegayed&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
